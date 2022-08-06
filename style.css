@@ -114,8 +114,8 @@ h1:hover{
     color: hsl(178, 100%, 50%);
 }
 
-.nft-image:hover{
-
-    color: green;
-
+@media only screen and (min-width: 1440px){
+    .attribution{
+        width: 100%;
+    }
 }
