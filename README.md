@@ -16,5 +16,5 @@ Your challenge is to build out this preview card component and get it looking as
 
 ## My solution
 
-You can find my solution here ####
+You can find my solution here https://maikocode.github.io/nft-preview-card-main/
 
